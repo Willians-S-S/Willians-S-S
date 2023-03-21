@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Willians-S-S&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Willains Silva github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians-S-S&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians-S-S&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
 </div>
 
 ## Sobre mim
